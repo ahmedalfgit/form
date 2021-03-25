@@ -28,7 +28,7 @@
       "react-app/jest"
     ]
   },
-  "homepage" : ".",
+  "homepage" : "https://ahmedalfgit.github.io/form/",
   "browserslist": {
     "production": [
       ">0.2%",
